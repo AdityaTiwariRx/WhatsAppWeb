@@ -13,8 +13,7 @@ namespace WhatsApp.Models.Main
 
         public string CountryName { get; set; }
 
-     
-        [System.ComponentModel.DataAnnotations.Key]
+
         public string CountryCode { get; set; }
 
 

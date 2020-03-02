@@ -7,7 +7,7 @@
 	"unitOfWork": "WhatsApp.UnitOfWork",
     "infrastructure": "WhatsApp.Infrastructure",
     "azureFunctionHttp":"",
-    "portal":"Whatsapp-portal",
+    "portal":"WhatsApp-Portal",
     "azureFunctionBackground":""
   },
   "path": {

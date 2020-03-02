@@ -34,7 +34,7 @@ namespace WhatsApp.Models.Main
         public byte[] Salt { get; set; }
 
 
-        public bool LoginBlocked { get; set; }
+        public Nullable<bool> LoginBlocked { get; set; }
 
 
         public string LocaleCode { get; set; }
